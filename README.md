@@ -1,5 +1,5 @@
 
-<p align="center"><img src= "https://media.itsnicethat.com/original_images/563b97a87fa44cff9d001760.gif" width="600" height="400"/></p>
+<p align="center"><img src= "https://github.com/fayez666/AirBnB_clone/blob/master/hbnb.png" width="600" height="400"/></p>
 
 
 # AirBnB clone - The console :ab::rocket:
